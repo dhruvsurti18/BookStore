@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+main {
+  flex: 1;
+}
+.card-img-top {
+  border-bottom: 1px solid #dee2e6;
+}
